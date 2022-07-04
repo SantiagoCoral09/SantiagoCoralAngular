@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Welcome Home",
+            "album": "Master of Puppets",
+            "cover": "https://jenesaispop.com/wp-content/uploads/guette_onelove.jpg",
+            "artist":{
+                "name": "David Guetta",
+                "nickname": "david Guetta",
+                "nationallity":"FR"
+            },
+
+            "duration":{
+                "start":0,
+                "end":333
+            },
+            "url":"http://localhost:3000/track.mp3"
+        },
+
+        {
+            "id": 2,
+            "name": "Master of Puppets",
+            "album": "Master of Puppets",
+            "cover": "https://jenesaispop.com/wp-content/uploads/guette_onelove.jpg",
+            "artist":{
+                "name": "David Guetta",
+                "nickname": "david Guetta",
+                "nationallity":"FR"
+            },
+
+            "duration":{
+                "start":0,
+                "end":333
+            },
+            "url":"http://localhost:3000/track.mp3"
+        }
+    ]
+}
